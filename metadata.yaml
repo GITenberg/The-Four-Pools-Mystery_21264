@@ -1,0 +1,49 @@
+_repo: The-Four-Pools-Mystery_21264
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Varian, George
+    alias: Varian, George Edmund
+    birthdate: 1865
+    deathdate: 1923
+    gutenberg_agent_id: '31657'
+    url: http://www.gutenberg.org/2009/agents/31657
+covers:
+- cover_type: archival
+  image_path: 21264-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Webster, Jean
+    aliases:
+    - McKinney, Jean Webster
+    - Webster, Alice Jean Chandler
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '99'
+    url: http://www.gutenberg.org/2009/agents/99
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Webster
+description: It was through the Patterson-Pratt forgery case that I first made the
+  acquaintance of Terry Patten, and at the time I should have been more than willing
+  to forego the pleasure. Our firm rarely dealt with criminal cases, but the Patterson
+  family were long standing clients, and they naturally turned to us when the trouble
+  came. Ordinarily, so important a matter would have been put in the hands of one
+  of the older men, but it happened that I was the one who had drawn up the will for
+  Patterson Senior the night before his suicide, therefore the brunt of the work devolved
+  upon me. The most unpleasant part of the whole affair was the notoriety. Could we
+  have kept it from the papers, it would not have been so bad, but that was a physical
+  impossibility; Terry Patten was on our track, and within a week he had brought down
+  upon us every newspaper in New York.
+gutenberg_issued: '2007-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21264'
+  lccn: 08008103
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Detective and mystery stories'
+title: The Four-Pools Mystery
+url: http://www.gutenberg.org/ebooks/21264
